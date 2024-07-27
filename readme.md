@@ -63,5 +63,6 @@ This Todo App provides a simple and efficient way to manage tasks with basic CRU
 ## Contact
 
 For any inquiries or feedback, please contact:
+- Name: Rajkumar A
 - Email: rajkumaranbu195@gmail.com
 - LinkedIn: [Rajkumar A](https://www.linkedin.com/in/rajkumar-info/)
